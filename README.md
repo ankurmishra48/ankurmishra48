@@ -33,7 +33,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 MCA Student at VIT Vellore (CGPA: 8.95)
+- 🎓 MCA Student at VIT Vellore
 - 💼 Network Automation & Testing Intern at Nokia
 - ☕ Java & Spring Boot Developer
 - 🌐 Full Stack Web Developer
